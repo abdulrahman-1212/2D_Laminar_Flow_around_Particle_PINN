@@ -78,7 +78,6 @@ Predicted velocity magnitude, streamlines, pressure field and speed contours:
 
 ![Flow field results](results.png)
 
-*(Replace `results.png` with your actual combined visualization or montage of the four subplots: velocity + quiver, streamlines, pressure, speed contour.)*
 
 
 ## How to Run
