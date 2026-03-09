@@ -31,22 +31,5 @@ This project demonstrates how to train a PINN to predict velocity components (u,
 <!-- Replace with actual path or upload the image -->
 
 ### Velocity and pressure fields (Re = 20)
-Predicted velocity magnitude + quiver plot:
 
-![Velocity magnitude + quiver](results/velocity_quiver.png)
-
-Predicted streamlines:
-
-![Streamlines](results/streamlines.png)
-
-Predicted pressure field:
-
-![Pressure field](results/pressure.png)
-
-Predicted speed contour:
-
-![Speed contour](results/speed_contour.png)
-
-
-
-## Repository Structure
+![Velocity magnitude + quiver](results/vel_magn.png)
