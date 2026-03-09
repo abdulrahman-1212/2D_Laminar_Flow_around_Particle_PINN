@@ -24,12 +24,7 @@ This project demonstrates how to train a PINN to predict velocity components (u,
 
 ## Results
 
-### Training convergence
-<!-- Insert loss curve here (total loss, PDE loss, boundary losses) -->
-
-![Training loss history](results/loss_history.png)
-<!-- Replace with actual path or upload the image -->
 
 ### Velocity and pressure fields (Re = 20)
 
-![Velocity magnitude + quiver](results/vel_magn.png)
+![](results/vel_magn.png)
